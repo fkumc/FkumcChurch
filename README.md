@@ -1,5 +1,5 @@
-#TEST TEST TEST WEB
-Church Main web
+#MagicMirror Complenments File
+Church Main MagincMirror
 
-This is going to make new web app.
+This is going to make new Compliments.
 
