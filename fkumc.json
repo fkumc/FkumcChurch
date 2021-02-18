@@ -1,23 +1,20 @@
- {
-	anytime: [
-		"Hey there FKUMC!"
-	],
-	morning: [
-		"Good morning, FKUMC!",
-		"Enjoy your day!",
-		"How was your sleep?"
-	],
-	afternoon: [
-		"Hello, FKUMC!!!!!!",
-		"You look sexy FKUMC!!!!!!",
-		"Looking good today FKUMC!!!!!"
-	],
-	evening: [
-		"Wow, you look hot!",
-		"You look nice!",
-		"Hi, sexy!"
-	],
-	"....-01-01": [
-		"Happy new year!"
-	]
+{
+    "anytime" : [
+        "Hey there sexyFKUMC!"
+    ],
+    "morning" : [
+        "Good morning, sexyFKUMC!",
+        "Who needs coffee when you have your sexyFKUMC?",
+        "Go get 'em, sexyFKUMC!"
+    ],
+    "afternoon" : [
+        "Hitting your sexyFKUMC!",
+        "You are making a sexyFKUMC!",
+        "You're more fun than bubble sexyFKUMC!"
+    ],
+    "evening" : [
+        "You made someone smile today, I know sexyFKUMC.",
+        "You are making a sexyFKUMC.",
+        "The day was better for your sexyFKUMC."
+    ]
 }
